@@ -20,14 +20,14 @@ Si votre M365 est à jour, l’application devrait mentionner DRV Ver 1.34.<br/>
 
 
 ## Débridage
-**CFW W - 850W**
-• Point de départ 0
-• Contrôle de puissance (850w max normal, ECO 400x max)
-**CFW - 1000w (déconseillé)**
-• Point de départ 0
-• Déclencher par le pouvoir
-• Contrôle de puissance (1000w max normal, ECO 600w max)
-• Rétention supprimée
-• Frein avant plus agressif
-• Vitesse maximale 32km/h
+**CFW W - 850W**<br/><br/>
+• Point de départ 0.<br/>
+• Contrôle de puissance (850w max normal, ECO 400x max).<br/><br/>
+**CFW - 1000w (déconseillé)**<br/><br/>
+• Point de départ 0.<br/>
+• Déclencher par le pouvoir.<br/>
+• Contrôle de puissance (1000w max normal, ECO 600w max).<br/>
+• Rétention supprimée.<br/>
+• Frein avant plus agressif.<br/>
+• Vitesse maximale 32km/h.<br/>
 
