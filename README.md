@@ -10,10 +10,11 @@
 ### BLE
 • Le protocol BLE permet d'avoir un échange de données sans fil avec des appareils dits « Low Energy » (Beacons), qui une fois en fonctionnement restent à l'écoute du canal jusqu'à ce qu'un appareil ne veuille pas établir de connexion avec eux.
 
-### Résumé
+### Sommaire
 • DRV correspond au firmware principal.<br/>
 • BMS renvoie à l’alimentation (Battery Management System).<br/>
 • BLE désigne le contrôleur Bluetooth.<br/>
 
-Si votre M365 est à jour, l’application devrait mentionner DRV Ver 1.34.
+Si votre M365 est à jour, l’application devrait mentionner DRV Ver 1.34.<br/><br/>
+![image](https://user-images.githubusercontent.com/74382279/161855027-88ce356a-5992-40e4-9727-e4c72e26cc13.png)
 
